@@ -56,11 +56,6 @@ actually running the code:
 
 ## Algorithms & data structure practice
 
-### [javascript-algorithms](https://github.com/ankurmishra32/javascript-algorithms)
-Fork of `trekhleb/javascript-algorithms` with all tests green and
-ESLint clean. My reference for interview prep and the place I go
-when I want to remember how a red-black tree works.
-
 ### [DataStructureAndAlgorithmsMadeEasyInJavaScript](https://github.com/ankurmishra32/DataStructureAndAlgorithmsMadeEasyInJavaScript)
 Solutions to the Narasimha Karumanchi book in plain JS. Module-scoped
 memo tables (Fibonacci, LCS) deliberately kept local to each function
