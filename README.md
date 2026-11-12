@@ -1,6 +1,6 @@
 # Ankur Mishra
 
-Senior Frontend Engineer — 11+ years shipping React, Angular, and
+Senior Frontend Engineer — 12+ years shipping React, Angular, and
 TypeScript at GlobalLogic, Practo, Oracle, and LG.
 
 - Noida, India
